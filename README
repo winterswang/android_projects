@@ -1,3 +1,7 @@
+2014/09/06
+将wikitudeDemo修改为了两个版本，3.0和4.0
+新增了一个test2项目，验证定位的处理。也将图像识别的迁移过来了。
+
 2014/09/04
 新加入了一个Android项目，wikitudeTest1 完成wikitude SDK开发的小DEMO
 新加入了wikitude SDK 的官方例子。学习下怎么使用和开发
